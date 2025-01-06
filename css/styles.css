@@ -101,6 +101,7 @@ body {
     flex-wrap: wrap;
     margin-top: 72px;
     column-gap: 24px;
+    row-gap:48px;
     text-align: start;
   }
   .section-portfolio-list .section-portfolio-list-item-content{
@@ -109,7 +110,9 @@ body {
     border-top: none;
     margin-bottom: 8px;
   }
-
+    .section-portfolio-list-item-content h3{
+    margin-bottom: 8px;
+    }
   /* Portfolio End */
   .logo {
     font-family: "Raleway", sans-serif;
