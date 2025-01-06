@@ -101,7 +101,6 @@ body {
     flex-wrap: wrap;
     margin-top: 72px;
     column-gap: 24px;
-    row-gap: 48px;
     text-align: start;
   }
   .section-portfolio-list .section-portfolio-list-item-content{
